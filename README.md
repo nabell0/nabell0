@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyunwoo%20Park!&fontAlign=50&fontAlignY=40&color=gradient" />
 
   <p>
     🚀 목표: 백엔드 역량 강화 + Spring 기반 프로젝트 구현  
