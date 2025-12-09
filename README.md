@@ -66,7 +66,7 @@
 
 
 - **기간**: 2025-10-29 ~ 2025-12-10 (6주, 4인)  
-- **역할**: Full-stack (React + Spring Boot) 개발, 총괄
+- **역할**: Full-stack (React + Spring Boot) 개발, Real-time: WebSocket 기반 실시간 채팅 기능 설계 및 구현 , Frontend: React 기반 주요 페이지 개발 및 상태 관리(TanStack Query)
 - **협업 방식**: 기능 단위 브랜치 생성 → PR → 코드 리뷰 및 merge로 협업, 다수의 merge conflict를 직접 해결하며 팀 코드와 제 코드를 안전하게 병합하는 경험을 쌓았습니다.
 - **주요 기능**
   - 일정별 여행 계획 CRUD, 장소 검색 + 지도 연동
